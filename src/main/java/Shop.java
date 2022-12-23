@@ -12,7 +12,7 @@ public class Shop {
     private ArrayList<Product> products;
 
     /**
-     * Class constructor initializes the store with its name and products.
+     * Class constructor initializes the store with its name and products
      * @param name shop name
      * @param products ArrayList of Products sold in the shop
      */

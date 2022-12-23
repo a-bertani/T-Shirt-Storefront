@@ -1,5 +1,5 @@
 /**
- * The enum Menu option.
+ * The enum Menu option
  */
 public enum MenuOption {
     EXIT(0, "Exit"),

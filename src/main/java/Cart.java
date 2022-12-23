@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Cart class is responsible for managing the contents of the cart.
+ * Cart class is responsible for managing the contents of the cart
  */
 public class Cart {
     private ArrayList<Product> items = new ArrayList<>();
@@ -11,13 +11,13 @@ public class Cart {
 
     /**
      * Class constructor initializes the cart with an empty list of items,
-     * total value of 0, and a tax rate of 10%.
+     * total value of 0, and a tax rate of 10%
      */
     public Cart() {
     }
 
     /**
-     * Prints a message notifying the user of an empty cart, when it contains no items.
+     * Prints a message notifying the user of an empty cart, when it contains no items
      *
      * When the cart has items, prints:
      * - number of items in the cart

@@ -16,7 +16,7 @@ public class ShopRunner {
      * Main entry point to the application.
      * Asks the menu's greeting to be printed to standard out by calling its greet method.
      * Asks the shop's products to be printed by calling its printProducts method.
-     * Asks the menu to be shown by calling its show method.
+     * Asks the menu to be shown by calling its show method
      * @param args Command line arguments to the application
      */
     public static void main(@Nullable String[] args) {

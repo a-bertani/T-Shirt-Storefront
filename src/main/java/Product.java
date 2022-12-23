@@ -1,6 +1,6 @@
 /**
  * Product class maintains the concept of a product in the application.
- * It encapsulates a the product's name, and its price.
+ * It encapsulates a the product's name, and its price
  */
 
 public class Product {

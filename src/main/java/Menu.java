@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Menu class is responsible for greeting the user, showing a menu
- * to the user for interaction with the application.
+ * to the user for interaction with the application
  */
 public class Menu {
     private Shop shop;
